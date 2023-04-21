@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL FOR THIS APP IS :-   https://whatsapp-clone-ac72d.web.app
 
 ## Available Scripts
 
